@@ -9,6 +9,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=zoga-com&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 # 🍉 Другие профили:
-[![](https://img.shields.io/badge/gitlab-FFFFFF?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/zoga_com)
+[[](https://img.shields.io/badge/gitlab-FFFFFF?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/zoga_com)
 ---
 [![](https://visitcount.itsvg.in/api?id=zoga-com&icon=5&color=0)](https://visitcount.itsvg.in)
